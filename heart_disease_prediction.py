@@ -51,4 +51,14 @@ if input_data:
         else:
             st.write("The machine confirms that person has a heart disease.")
             
-st.markdown("<h6 style='text-align:center;'>Developed by Nyanda Jr</h6>", unsafe_allow_html=True)
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+st.markdown("<h6 style='text-align:center;color:green;font-weight:bold;font-family:Arial;'>Developed by Nyanda Jr</h6>", unsafe_allow_html=True)
