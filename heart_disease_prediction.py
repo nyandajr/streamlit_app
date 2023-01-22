@@ -50,15 +50,15 @@ if input_data:
             st.write("The machine confirms that person does not have a heart disease.")
         else:
             st.write("The machine confirms that person has a heart disease.")
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-st.markdown("<h6 style='text-align:center;color:green;font-weight:bold;font-family:Arial;'>Developed by Nyanda Jr</h6>", unsafe_allow_html=True)
+st.empty()
+st.empty()
+st.empty()
+st.empty()
+st.empty()
+st.empty()
+st.empty()
+st.empty()
+st.empty()
+st.empty()        
+st.empty()
+st.markdown("<h6 style='text-align:center;color:yellow;font-weight:bold;font-family:Arial;'>Developed by Nyanda Jr</h6>", unsafe_allow_html=True)
